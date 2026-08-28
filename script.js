@@ -10,7 +10,7 @@ const SITE_CONFIG = {
 
     email: "Xeno7yt@gmail.com",
 
-    profileImage: "assets/profile.png",
+    profileImage: "profile.png",
 
     donation: {
         upi: "mishranishikanta7@ybl",
