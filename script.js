@@ -10,7 +10,7 @@ const SITE_CONFIG = {
 
     email: "Xeno7yt@gmail.com",
 
-    profileImage: "profile.png",
+    profileImage: "https://cdn.discordapp.com/attachments/1426181727541268681/1543121856943624242/IMG_20260125_231719.png?ex=6a93b7b8&is=6a926638&hm=c18775e0494dbed962c690791e93857aa3cba83689546701825e1bd6ff7437c7&",
 
     donation: {
         upi: "mishranishikanta7@ybl",
